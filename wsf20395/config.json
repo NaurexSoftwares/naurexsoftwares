@@ -1,0 +1,54 @@
+{
+  "studio_name": "Naurex Softwares",
+  "softwares": [
+    {
+      "id": "nexa-explorer",
+      "name": "Nexa Explorer",
+      "description": "A custom high-performance file manager with an optimized interface.",
+      "version": "1.0.0",
+      "icon": "nexa_icon.png",
+      "download_link": "https://link-do-seu-download.com",
+      "tags": [
+        "WPF",
+        "Utility"
+      ]
+    },
+    {
+      "id": "naurex-max",
+      "name": "NaurexMax Performance",
+      "description": "System optimization and cleaning tool.",
+      "version": "2.1.0",
+      "icon": "max_icon.png",
+      "download_link": "https://link-do-seu-download.com",
+      "tags": [
+        "Optimization",
+        "Windows"
+      ]
+    },
+    {
+      "id": "naurex-music",
+      "name": "Naurex Music",
+      "description": "Advanced music player.",
+      "version": "1.0.0",
+      "icon": "max_icon.png",
+      "download_link": "https://link-do-seu-download.com",
+      "tags": [
+        "Music",
+        "Windows"
+      ]
+    },
+    {
+      "id": "naurex-veil",
+      "name": "Veil",
+      "description": "Desktop environment manager.",
+      "version": "1.0.0",
+      "icon": "max_icon.png",
+      "download_link": "https://link-do-seu-download.com",
+      "tags": [
+        "Manager",
+        "Windows",
+        "Utility"
+      ]
+    }
+  ]
+}
