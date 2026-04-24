@@ -40,7 +40,7 @@
       "description": "Desktop environment manager.",
       "long_description": "Take control of your workspace with Veil. This utility allows you to create custom desktop layouts, manage virtual monitors, and organize your applications into dedicated productivity zones for maximum focus.",
       "version": "1.0.0",
-      "icon": "max_icon.png",
+      "icon": "https://github.com/NaurexSoftwares/naurexsoftwares/blob/NaurexSoftwares-wb/wsf20395/softwares/Veil/icon.png?raw=true",
       "download_link": "https://link-do-seu-download.com",
       "tags": ["Manager", "Windows", "Utility"],
       "features": ["Virtual Workspace Management", "Custom App Zoning", "Distraction-Free Mode", "Multi-Monitor Synchronization"]
