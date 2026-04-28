@@ -6,9 +6,9 @@
       "name": "Nexa Explorer",
       "description": "A custom high-performance file manager with an optimized interface.",
       "long_description": "Nexa Explorer completely overhauls the standard file management experience. Built in WPF, it leverages hardware acceleration to render massive directories instantly. It is designed for power users who need speed, tabbed browsing, and advanced file operations without system bloat.",
-      "version": "1.0.0",
+      "version": "Beta 1.0",
       "icon": "https://github.com/NaurexSoftwares/naurexsoftwares/blob/NaurexSoftwares-wb/wsf20395/softwares/Nexa%20Explorer/icon.png?raw=true",
-      "download_link": "https://link-do-seu-download.com",
+      "download_link": "https://github.com/NaurexSoftwares/Nexa-Explorer/releases/download/NexaExplorer/Nexa.Explorer.zip",
       "tags": ["WPF", "Utility"],
       "features": ["Hardware Accelerated UI", "Tabbed Directory Browsing", "Advanced Bulk Renaming", "Deep System Integration"]
     },
