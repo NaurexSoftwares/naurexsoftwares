@@ -1,0 +1,62 @@
+{
+  "studio_name": "Naurex Softwares",
+  "softwares": [
+    {
+      "id": "nexa-explorer",
+      "name": "Nexa Explorer",
+      "description": "A custom high-performance file manager with an optimized interface.",
+      "long_description": "Nexa Explorer completely overhauls the standard file management experience. Built in WPF, it leverages hardware acceleration to render massive directories instantly. It is designed for power users who need speed, tabbed browsing, and advanced file operations without system bloat.",
+      "version": "Beta 1.0",
+      "icon": "https://github.com/NaurexSoftwares/naurexsoftwares/blob/NaurexSoftwares-wb/wsf20395/softwares/Nexa%20Explorer/icon.png?raw=true",
+      "download_link": "https://github.com/NaurexSoftwares/Nexa-Explorer/releases/download/NexaExplorer/Nexa.Explorer.zip",
+      "tags": ["WPF", "Utility"],
+      "features": ["Hardware Accelerated UI", "Tabbed Directory Browsing", "Advanced Bulk Renaming", "Deep System Integration"]
+    },
+    {
+      "id": "naurex-max",
+      "name": "NaurexMax Performance",
+      "description": "System optimization and cleaning tool.",
+      "invisible": true,
+      "long_description": "NaurexMax Performance is the definitive tool to squeeze every drop of power from your hardware. It safely cleans temporary files, disables unnecessary background telemetry, and optimizes RAM usage for gaming and heavy workloads.",
+      "version": "2.1.0",
+      "icon": "max_icon.png",
+      "download_link": "https://link-do-seu-download.com",
+      "tags": ["Optimization", "Windows"],
+      "features": ["1-Click Junk Cleanup", "RAM Optimization Engine", "Telemetry Blocking", "Gaming Mode Profile"]
+    },
+    {
+      "id": "naurex-music",
+      "name": "Naurex Music",
+      "description": "Advanced high-fidelity music player.",
+      "invisible": true,
+      "long_description": "Experience your audio library like never before. Naurex Music supports lossless audio formats and features an advanced equalizer, gapless playback, and a sleek dark-mode interface built for audiophiles.",
+      "version": "1.0.0",
+      "icon": "max_icon.png",
+      "download_link": "https://link-do-seu-download.com",
+      "tags": ["Music", "Windows"],
+      "features": ["FLAC & ALAC Lossless Support", "10-Band Parametric EQ", "Gapless Playback", "Dynamic Theming"]
+    },
+    {
+      "id": "naurex-veil",
+      "name": "Veil",
+      "description": "Desktop environment manager.",
+      "long_description": "Take control of your workspace with Veil. This utility allows you to create custom desktop layouts, manage virtual monitors, and organize your applications into dedicated productivity zones for maximum focus.",
+      "version": "1.0.0",
+      "icon": "https://github.com/NaurexSoftwares/naurexsoftwares/blob/NaurexSoftwares-wb/wsf20395/softwares/Veil/icon.png?raw=true",
+      "download_link": "https://github.com/NaurexSoftwares/Veil/releases/download/Veil/Veil.exe",
+      "tags": ["Manager", "Windows", "Utility"],
+      "features": ["Virtual Workspace Management", "Custom App Zoning", "Distraction-Free Mode", "Multi-Monitor Synchronization"]
+    },
+    {
+      "id": "naurex-core",
+      "name": "Naurex Core",
+      "description": "Advanced Windows optimization and tweaking utility.",
+      "long_description": "Extract maximum CPU, GPU, and Disk performance safely. Naurex Core is a premium system optimization utility designed for power users and gamers, featuring a built-in read-before-write rollback engine and nearly 100 deep-level tweaks to maximize your system's potential.",
+      "version": "1.0.0",
+      "icon": "https://github.com/NaurexSoftwares/naurexsoftwares/blob/NaurexSoftwares-wb/wsf20395/softwares/Naurex%20Core/icon.png?raw=true",
+      "download_link": "https://github.com/NaurexSoftwares/Naurex-Core/releases/download/NaurexCore/Naurex.Core.1.0.zip",
+      "tags": ["Optimization", "Windows", "Utility", "Performance", "Tweaker"],
+      "features": ["Safe Registry Rollback Engine", "Hardware-Accelerated GPU Scheduling", "Deep System & Cache Cleanup", "Gaming Latency & Raw Input Fixes", "100% Network Bandwidth Unlock"]
+    }
+  ]
+}
