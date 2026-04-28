@@ -46,6 +46,17 @@
       "download_link": "https://github.com/NaurexSoftwares/Veil/releases/download/Veil/Veil.exe",
       "tags": ["Manager", "Windows", "Utility"],
       "features": ["Virtual Workspace Management", "Custom App Zoning", "Distraction-Free Mode", "Multi-Monitor Synchronization"]
+    },
+    {
+      "id": "naurex-core",
+      "name": "Naurex Core",
+      "description": "Advanced Windows optimization and tweaking utility.",
+      "long_description": "Extract maximum CPU, GPU, and Disk performance safely. Naurex Core is a premium system optimization utility designed for power users and gamers, featuring a built-in read-before-write rollback engine and nearly 100 deep-level tweaks to maximize your system's potential.",
+      "version": "1.0.0",
+      "icon": "https://github.com/NaurexSoftwares/naurexsoftwares/blob/NaurexSoftwares-wb/wsf20395/softwares/Naurex%20Core/icon.png?raw=true",
+      "download_link": "https://github.com/NaurexSoftwares/Naurex-Core/releases/download/NaurexCore/Naurex.Core.1.0.zip",
+      "tags": ["Optimization", "Windows", "Utility", "Performance", "Tweaker"],
+      "features": ["Safe Registry Rollback Engine", "Hardware-Accelerated GPU Scheduling", "Deep System & Cache Cleanup", "Gaming Latency & Raw Input Fixes", "100% Network Bandwidth Unlock"]
     }
   ]
 }
