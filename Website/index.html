@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Naurex Softwares | High Performance Tools</title>
+    
+    <link rel="icon" type="image/png" href="icon.png">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Inter:wght@300;400;600;800;900&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="bg-grid"></div>
+
+    <nav class="navbar">
+        <div class="nav-content">
+            <div class="logo">
+                <img src="logo.png" alt="Naurex Softwares Logo" class="nav-logo" onerror="this.src=''; this.alt='Naurex Softwares';">
+            </div>
+            <ul class="nav-links">
+                <li><a href="#" id="nav-home">Products</a></li>
+                <li><a href="https://naurexsoftwares.itch.io/" target="_blank" class="btn-outline">itch.io</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div id="main-view">
+        <header class="hero">
+        <div class="hero-content">
+            <h1 class="welcome-title">Welcome to</h1>
+            
+            <img src="logo.png" alt="Naurex Softwares" class="hero-logo" onerror="this.style.display='none'">
+            
+            <p id="hero-subtitle">Fetching studio telemetry...</p>
+            <div class="hero-actions">
+                <a href="#products" class="btn-primary">Explore Suite</a>
+                <a href="https://github.com/NaurexSoftwares" target="_blank" class="btn-secondary">GitHub Repository</a>
+            </div>
+        </div>
+    </header>
+
+        <main id="products" class="container">
+            <div class="section-header">
+                <h2>Our Software Suite</h2>
+                <p class="section-desc">Advanced desktop environments, utilities, and high-fidelity music players built for Windows.</p>
+            </div>
+            
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search softwares, tags, or tools...">
+            </div>
+
+            <div id="loader" class="loader-container">
+                <div class="spinner"></div>
+                <p>Parsing configuration...</p>
+            </div>
+
+            <div id="software-container" class="grid-container hidden"></div> 
+            <div id="no-results" class="hidden text-center" style="color: var(--text-secondary); padding: 2rem;">No software found matching your search.</div>
+        </main>
+    </div>
+
+    <div id="detail-view" class="container hidden">
+        </div>
+
+    <footer>
+        <div class="footer-content container">
+            <div class="footer-brand">
+                <img src="logo.png" alt="Naurex Logo" class="footer-logo" onerror="this.style.display='none'">
+                <p>Creating tools that empower your digital workspace.</p>
+            </div>
+            <div class="footer-links">
+                <p>&copy; 2026 Naurex Softwares. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
